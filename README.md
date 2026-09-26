@@ -8,10 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=zahirjunejo&style=for-the-badge)
 
-<div align="center">
-  <img src="https://i.giphy.com/dWesBcTLavkZuG35MI.webp" width="600" height="300"/>
-</div>
-
 <!--
 **zahirjunejo/zahirjunejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
