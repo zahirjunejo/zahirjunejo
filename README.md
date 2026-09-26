@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=zahirjunejo&style=for-the-badge)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/dWesBcTLavkZuG35MI.webp" width="600" height="300"/>
 </div>
 
 <!--
