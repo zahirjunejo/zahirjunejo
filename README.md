@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com?color=blue)
+![](https://komarev.com/ghpvc/?username=zahirjunejo)
 <!--
 **zahirjunejo/zahirjunejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
