@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zahirjunejo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img width="25vw" height="25vh" alt="image" src="https://github.com/user-attachments/assets/65d8c250-3d79-4dff-afb5-8cf84260421c" />
   </a>
 </div>
 
